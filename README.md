@@ -10,7 +10,7 @@
 - ⚡ Fun fact: When I'm not coding I draw and play the piano, I am a virtuoso!
 
 Note:
-ML - Machine Learning Projects
-PBI - Power BI Data Cleaning & Viz Projects
-SQL - Data Cleaning, Manipulation & Transformation Projects (usually with Power BI or Python)
-Py - Python Projects
+- ML - Machine Learning Projects
+- PBI - Power BI Data Cleaning & Viz Projects
+- SQL - Data Cleaning, Manipulation & Transformation Projects (usually with Power BI or Python)
+- Py - Python Projects
