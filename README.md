@@ -1,16 +1,12 @@
-### Hi there 👋
+  👋 Hi there, I'm Adunoluwa, Toby for short! 
 
-<!--
-**adunoluwa1/adunoluwa1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on data analysis projects
+- 💬 Ask me about SQL, Python, Power BI and Excel
+- 📫 How to reach me: LinkedIn https://www.linkedin.com/in/adunoluwaolutola/ 
+                       Email: olutola@uwindsor.ca
+                       Phone: +1519-999-9452
+                       Instagram: @adunoluwa1
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: When I'm not coding I draw and play the piano, I am a virtuoso!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
