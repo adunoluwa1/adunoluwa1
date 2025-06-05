@@ -1,4 +1,4 @@
-  👋 Hi there, I'm Adunoluwa, Toby for short! 
+  👋 Hi there, I'm Adunoluwa, but you can call me Toby! 
 
 - 🌱 I’m currently working on SQL and Python projects
 - 👯 I’m looking to collaborate on data analysis projects
