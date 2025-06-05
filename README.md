@@ -5,7 +5,7 @@
 - 💬 Ask me about SQL, Python, Power BI and Excel
 - 📫 How to reach me: 
 - [LinkedIn: https://www.linkedin.com/in/adunoluwaolutola/](https://www.linkedin.com/in/adunoluwaolutola/)
-- [📧 olutola@uwindsor.ca](olutola@uwindsor.ca)
+- [📧 toby.olutola@gmail.com](toby.olutola@gmail.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: When I'm not coding I draw and play the piano, I am a virtuoso!
 
