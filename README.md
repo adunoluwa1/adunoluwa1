@@ -2,7 +2,7 @@
 
 I'm a data enthusiast currently diving deep into the worlds of **SQL** and **Python** to uncover insights and build awesome projects. My passion lies in transforming raw data into clear, compelling stories and visualizations.
 
-- 🌱 **Currently building:** My portfolio is brimming with projects in data cleaning, manipulation, and transformation using SQL and Python. I'm also sharpening my skills in Power BI for dynamic dashboards.
+- 🌱 **Currently building:** My portfolio is brimming with projects in data cleaning, manipulation, and transformation using SQL and Python. I'm also showcasing my skills in Power BI for dynamic dashboards.
 - 👯 **Let's collaborate!** Always eager to team up on exciting data initiatives, especially those involving data analysis, reporting, or visualization.
 - 💬 **Ask me anything about:** SQL, Python, Power BI, and Excel. I'm happy to share what I know!
 - 📫 **Connect with me:**
