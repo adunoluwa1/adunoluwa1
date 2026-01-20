@@ -17,7 +17,7 @@ My work spans the full data lifecycle, from ingestion and transformation, to mod
 ### 🛠️ Tools & Technologies
 * **Languages**: SQL, Python
 * **Analytics & BI**: Power BI, Excel
-* **Data Engineering**: Data modeling, ELT pipelines, transformations
+* **Data Engineering**: Data modeling, ELT pipelines, transformations, Spark, dbt, dlt, etc.
 * **Machine Learning**: Scikit-learn (classification, feature engineering, model evaluation)
 
 
